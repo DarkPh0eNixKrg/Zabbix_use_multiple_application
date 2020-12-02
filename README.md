@@ -1,5 +1,4 @@
-<img src="single.jpg" width=480 height=270>
-<img src="multiple.jpg" width=480 height=270>
+<img src="single.jpg" width=480 height=270><img src="multiple.jpg" width=480 height=270>
 # Zabbix_use_multiple_application
 Use multiple application name in Data Overview widget
 
