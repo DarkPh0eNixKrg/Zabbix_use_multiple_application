@@ -2,7 +2,7 @@
 # Zabbix_use_multiple_application
 Use multiple application name in Data Overview widget
 
-- In Zabbix 5.0 haven't multiple select application at Data Overview widget.
+- In Zabbix 5.0.2 haven't multiple select application at Data Overview widget.
 I changed code at **"/usr/share/zabbix/include/items.inc.php"**
 and now you can display some applications separated by **","**
 
